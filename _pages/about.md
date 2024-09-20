@@ -11,8 +11,10 @@ I'm a third year graduate student from the [Peking University Sixth Hospital](ht
 ).
 
 You can find my CV here: [Meng Xinyu's Curriculum Vitae](../assets/Curriculum Vitae - Meng Xinyu.pdf).
+
 Contact me at [sznw.mengxy@outlook.com](mailto:sznw.mengxy@outlook.com).
 
 #### Research interests
- G x E interactions in early mental development
- Prevention and early intervention for mental disorders
+G x E interactions in early mental development
+
+Prevention and early intervention for mental disorders
